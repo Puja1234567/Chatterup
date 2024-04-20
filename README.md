@@ -2,7 +2,8 @@
 
 This is a frontend implementation of a chat application built using React, where users can engage in conversations with their contacts. The application allows users to search for conversations by contact name, view and send messages, and manage conversations.
 
-# Features :- Search Conversations: Users can search for conversations based on contact names.
+# Features :- 
+Search Conversations: Users can search for conversations based on contact names.
 
 Left Sidebar :- Displays a list of all conversations with contact names and snippets of the last messages. "Create Conversation" button opens a pop-up displaying contacts from the provided dummy data. Clicking on a contact initiates a new conversation or opens an existing one.
 
